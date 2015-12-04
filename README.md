@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *MATTELIN
 *Rémi
 *****
@@ -27,4 +26,3 @@ git diff[-options][-][<path>...]
 - Affichage des deux derniers commits et leurs différences :
 
 git diff A B
->>>>>>> commandes
